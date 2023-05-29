@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://github.com/GitHubBGSAcc/Byfron/assets/127904658/2ef882d0-8a62-46ee-bb79-a8229e60d5de">
     <br>
-    <img src="https://giphy.com/gifs/playvalorant-valorant-astra-new-agent-xvRPIAtMwKQ2SlxKtx">
+    <img src="https://media.tenor.com/kqhcfrSUZ2AAAAAC/space-galaxy.gif">
     <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
