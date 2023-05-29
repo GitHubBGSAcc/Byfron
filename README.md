@@ -9,6 +9,9 @@
     <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
+### This Big Project Was Created For Educational Purpose! It's Not Our Fault What You're Doing With This, We are NOT accounted for if your account gets banned For Exploting If You've Done This Wrong. Please don't abuse the power of Byfron Bypass by trying to trick others into Downloading Malicious Software!!
+
+
 ```
 for .gg.smoker we offer you the best quality for Byfron Bypass to Revert to 32-Bit Roblox Cilent.
 ```
@@ -62,11 +65,6 @@ Play Roblox Steady, Still. Open These Reccomended Executors, "KRNL, SynpaseX, Sc
 
 -- MORE INFORMATION IN MY DISCORD SERVER:
 https://discord.gg/smoker
-
-# Notes
-- We are NOT accounted for if your account gets banned.
-- Please don't abuse the power of Byfron Bypass by trying to trick others into Downloading Malicious Software.
-- Thanks!
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
