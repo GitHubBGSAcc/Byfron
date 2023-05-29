@@ -14,16 +14,20 @@ for .gg.smoker we offer you the best quality for Byfron Bypass to Revert to 32-B
 ```
 
 ## Features
-- BASIC Bypass Ticket
+
+# - BASIC Bypass Ticket
 
     - FREE
     - Easy To Use
     - WILL UPDATE THIS SOON
-- PREMIUM Bypass Ticket
+
+# - PREMIUM Bypass Ticket
 
     - SOON UPDATING THIS
+    - You stil reading? get to the bottom of this gitlab boi
 
 ## Installation
+
 
 ### A: Add To ZIP File
 ```
