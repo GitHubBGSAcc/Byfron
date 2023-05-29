@@ -1,6 +1,17 @@
-![image](https://github.com/GitHubBGSAcc/Byfron/assets/127904658/2ef882d0-8a62-46ee-bb79-a8229e60d5de)
-## Byfron Bypass
+<h1 align="center">
+  Byfron Bypass
+</h1>
+
+<div align="center">
+    <img src="https://github.com/GitHubBGSAcc/Byfron/assets/127904658/2ef882d0-8a62-46ee-bb79-a8229e60d5de">
+    <br>
+    <img src="https://images-ext-1.discordapp.net/external/O_CWBpGwRYZJy2Me44Ja_JUSFjdXOAqJfbh7rtMmWFo/https/thumbs.gfycat.com/HugeForkedArmyant-size_restricted.gif">
+    <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
+</div>
+
+```
 for .gg.smoker we offer you the best quality for Byfron Bypass to Revert to 32-Bit Roblox Cilent.
+```
 
 ## Features
 - BASIC Bypass Ticket
