@@ -4,16 +4,13 @@ for .gg.smoker we offer you the best quality for Byfron Bypass to Revert to 32-B
 
 ## Features
 - BASIC Bypass Ticket
-    - Token
-- BASIC Bypass Ticket
-    - Token
-    - Nitro
-    - Billing
-    - 2FA 
-    - Email
-    - Phone
-    - Gift Codes
-    - Backup Codes
+
+    - FREE
+    - Easy To Use
+    - WILL UPDATE THIS SOON
+- PREMIUM Bypass Ticket
+
+    - SOON UPDATING THIS
 
 ## Installation
 
