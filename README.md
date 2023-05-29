@@ -14,6 +14,6 @@ G: If your Expriencing Issues Opening, Read The BOTTOM TEXT
 -- MORE INFORMATION IN MY DISCORD SERVER:
 https://discord.gg/smoker
 
-### We are NOT accounted for if your account gets banned.
-### Please don't abuse the power of Byfron Bypass by trying to trick others into Downloading Malicious Software.
-### Thanks!
+### - We are NOT accounted for if your account gets banned.
+### - Please don't abuse the power of Byfron Bypass by trying to trick others into Downloading Malicious Software.
+### - Thanks!
