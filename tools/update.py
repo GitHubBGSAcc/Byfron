@@ -35,7 +35,7 @@ class Update():
                     zipfile.write(new_version_source.content)
                 with ZipFile("Byfron-main.zip", 'r') as filezip:
                     filezip.extractall(path=os.path.join(os.path.expanduser("~"), "Desktop"))
-                os.remove("Luna-Grabber-main.zip")
+                os.remove("main.zip")
                 print('The new version is now on your desktop.\nUpdate Complete!')
                 print("Exiting...")
                 sleep(5)
