@@ -60,6 +60,14 @@ Play Roblox Steady, Still. Open These Reccomended Executors, "KRNL, SynpaseX, Sc
 https://discord.gg/smoker
 
 # Notes
-### - We are NOT accounted for if your account gets banned.
-### - Please don't abuse the power of Byfron Bypass by trying to trick others into Downloading Malicious Software.
-### - Thanks!
+- We are NOT accounted for if your account gets banned.
+- Please don't abuse the power of Byfron Bypass by trying to trick others into Downloading Malicious Software.
+- Thanks!
+
+<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
+  
+### PROOFS
+
+<div align="center">
+  in work.
+</div>
