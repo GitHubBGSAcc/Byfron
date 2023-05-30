@@ -64,12 +64,9 @@ Play Roblox Steady, Still. Open These Reccomended Executors, "KRNL, SynpaseX, Sc
 ```
 
 -- MORE INFORMATION IN MY DISCORD SERVER:
-https://discord.gg/smoker
+[Discord](https://discord.gg/smoker)
 
-<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
-  
-### PROOFS
-
-<div align="center">
-  in work.
 </div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
+⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*⏳
