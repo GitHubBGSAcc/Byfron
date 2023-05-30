@@ -52,7 +52,7 @@ We would reccomend the wait Suggesting how Good your Computer is to See all the 
 ```
 ### E: After This, Add TamperMonkey, The "Bypass.exe" Should've Extracted Files Inside The Folder Giving you "RevertCil.pyw"
 ```
-Afterly, you add the RevertCil.pyw File run the command "pil revert".
+Afterly, you add the RevertCil.pyw File run the command "pil revert", In the Prompt Command!
 ```
 ### F: Run Installer Inside That PYW File, Complete your Downloading, Fun times Using Executor!
 ```
@@ -63,10 +63,11 @@ Any dealt things happening to you, You can DM The account I've Suggested In This
 Play Roblox Steady, Still. Open These Reccomended Executors, "KRNL, SynpaseX, Scriptware, Fluxus" For Executing Script, Enjoy!
 ```
 
--- MORE INFORMATION IN MY DISCORD SERVER:
+-- Please Join Our
 [Discord](https://discord.gg/smoker)
 
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</div>
 
 ⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*⏳
