@@ -18,16 +18,27 @@ for .gg.smoker we offer you the best quality for Byfron Bypass to Revert to 32-B
 
 ## Features
 
-- BASIC Bypass Ticket
+- Basic BB Ticket
 
     - FREE
     - Easy To Use
-    - WILL UPDATE THIS SOON
+    - Everything Is Stated Here How You Use
 
-- PREMIUM Bypass Ticket
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</div>
 
-    - SOON UPDATING THIS
+- Premium BB Ticket
+
+    - Giveaways For This
+    - Many Features Added Here in 2-3 Days *school taking up my time*
+    - Join My Discord Server, See Exactly what's the Tutorial There
+    - Everything Stated in BLOGS
     - You stil reading? get to the bottom of this gitlab boi
+
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</div>
 
 ## Installation
 
@@ -63,6 +74,10 @@ Any dealt things happening to you, You can DM The account I've Suggested In This
 Play Roblox Steady, Still. Open These Reccomended Executors, "KRNL, SynpaseX, Scriptware, Fluxus" For Executing Script, Enjoy!
 ```
 
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</div>
+
 -- Please Join Our
 [Discord](https://discord.gg/smoker)
 
@@ -70,4 +85,4 @@ Play Roblox Steady, Still. Open These Reccomended Executors, "KRNL, SynpaseX, Sc
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
 
-⏳ *Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*⏳
+⏳ ↑↑*Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑*⏳
