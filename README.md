@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://github.com/GitHubBGSAcc/Byfron/assets/127904658/2ef882d0-8a62-46ee-bb79-a8229e60d5de">
     <br>
-    <img src="https://media.tenor.com/kqhcfrSUZ2AAAAAC/space-galaxy.gif">
+    <img src="https://pbs.twimg.com/profile_images/1423666328343392261/fmKziIMt_400x400.png">
     <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
