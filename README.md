@@ -30,8 +30,10 @@ for .gg.smoker we offer you the best quality for Byfron Bypass to Revert to 32-B
 
 - Premium BB Ticket
 
-    - Giveaways For This
-    - Many Features Added Here in 2-3 Days *school taking up my time*
+    - Giveaways For This / Buy it for 5.00USD
+    - Comes in With Fast Execution/Loading
+    - More Features Within This
+    - 5 Free Premium Key to GW To Friends
     - Join My Discord Server, See Exactly what's the Tutorial There
     - Everything Stated in BLOGS
     - You stil reading? get to the bottom of this gitlab boi
